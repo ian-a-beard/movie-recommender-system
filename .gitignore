@@ -1,0 +1,7 @@
+venv/
+.DS_Store
+test.ipynb
+testoutput.csv
+titanic.csv
+ml-32m/
+ml-32m.zip
